@@ -126,7 +126,7 @@
 
 		<!-- TEST MODULE begin -->
 		<dependency>
-			<groupId>org.eclipse.jetty.aggregate</groupId>
+			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-webapp</artifactId>
 		</dependency>
 

@@ -400,7 +400,7 @@
 
 		<!-- jetty for functional test and executable war -->
 		<dependency>
-			<groupId>org.eclipse.jetty.aggregate</groupId>
+			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-webapp</artifactId>
 			<scope>provided</scope>
 		</dependency>
